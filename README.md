@@ -1,6 +1,9 @@
-# my_code
-**soo** bold
+### my_code
+**soo**
+---
+bold
 markdown formate
+---
 ---
 soo
 ---
